@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Location_array">
+        <item>LIBRARY 1ST FLOOR</item>
+        <item>LIBRARY 2ND FLOOR</item>
+        <item>LIBRARY 3RD FLOOR</item>
+        <item>LAB</item>
+        <item>OFFICE</item>
+        <item>CLASSROOM</item>
+    </string-array>
+</resources>
